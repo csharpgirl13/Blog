@@ -2,8 +2,8 @@
 
 #How to run#
 1. Download and install .net runtime from https://dotnet.microsoft.com/download/dotnet/3.1 respectivly to your OS.
-2. Navigate to \Blog\bin\Release\netcoreapp3.1\publish and run Blog.exe
-3. Open https://localhost:5001/swagger with will automatically navigate into swagger UI.
+2. Download the Pre-Release candidate (Blog.zip) from https://github.com/csharpgirl13/Blog/releases, unzip and run Blog.exe
+3. Open https://localhost:5001/swagger it will automatically navigate into swagger UI.
 
 #Swagger#
 Swagger is an Interface Description Language for describing RESTful APIs expressed using JSON.
